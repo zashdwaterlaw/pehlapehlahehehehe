@@ -1,0 +1,31 @@
+body {
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    color: white;
+    background-color:black;
+}
+
+h2 {
+    font-size: 20px;
+    color: #009933;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+ol,
+ul {
+    margin-bottom: 10px;
+}
+#lmao {
+    color: rgb(171, 236, 214);
+    background-color: rgb(60, 12, 124);
+}
